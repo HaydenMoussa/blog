@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Introduction Post"
+author: Hayden Moussa
 categories: misc
 ---
 
