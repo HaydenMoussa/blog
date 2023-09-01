@@ -5,3 +5,12 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+  header{
+    background-color: darkolivegreen;
+  }
+  .footer-col{
+    color: goldenrod;
+  }
+  body{
+    background-color: lightslategray;
+  }
