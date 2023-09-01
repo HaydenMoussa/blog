@@ -11,6 +11,6 @@ Basically everything we have been doing in these labs have been new to me. I hav
 
 #### Here are some photos from my noun website
 
-![image info](\assets\LakeNoun.png)
+![Alt text](/assets/LakeNoun.png "Title")
 
-![image info](\assets\NounWebSite.png)
+![Alt text](/assets/NounWebSite.png "Title")
