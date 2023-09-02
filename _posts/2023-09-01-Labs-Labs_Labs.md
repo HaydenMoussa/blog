@@ -13,7 +13,8 @@ Basically everything we have been doing in these labs have been new to me. I hav
 
 ![image](../assets/LakeNoun.png)
 
-![image](..\_posts\NounWebSite.png)
+![image]({{"/assets/LakeNoun.png" | relative_url }})
 
 <img src="\assets\NounWebSite.png">
+<container class=image_mount></container>
 
