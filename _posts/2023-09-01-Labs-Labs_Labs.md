@@ -11,10 +11,9 @@ Basically everything we have been doing in these labs have been new to me. I hav
 
 #### Here are some photos from my noun website
 
-![image](../assets/LakeNoun.png)
+![image]({{"/assets/NounWebSite.png" | relative_url }})
 
 ![image]({{"/assets/LakeNoun.png" | relative_url }})
 
-<img src="\assets\NounWebSite.png">
-<container class=image_mount></container>
+
 
